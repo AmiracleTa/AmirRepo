@@ -10,8 +10,6 @@
 
 4. 冲出边界或撞到自身游戏结束
 
-
-
 #### 包 / 库
 
 - 框架 : awt + swing
@@ -20,8 +18,6 @@
   - ImageIcon 加载图片
 
 - java.utile.* 中 ArrayList, Deque 之类的基本容器
-
-&nbsp;
 
 #### 文件构成
 
@@ -34,8 +30,6 @@
 - 方块类 - Block.java
 
 - 常量 - CONST.java
-
-&nbsp;
 
 #### **细节相关**
 
